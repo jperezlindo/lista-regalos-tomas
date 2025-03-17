@@ -27,4 +27,4 @@ def thank_you():
 
 if __name__ == '__main__':
     print('Holas')
-    app.run(debug=True)
+    app.run(debug=false)
