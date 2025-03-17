@@ -1,21 +1,5 @@
 {
     "list": [
-        {
-            "id": 5,
-            "cant": 1,
-            "name": "BODIES MANGA LARGA",
-            "who": [
-                "Jose"
-            ]
-        },
-        {
-            "id": 1,
-            "cant": 1,
-            "name": "FULAR",
-            "who": [
-                "Sofia"
-            ]
-        }
     ],
     "name": "TOMAS",
     "date": "06/04/2025"

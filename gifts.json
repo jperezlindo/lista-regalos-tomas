@@ -1,6 +1,14 @@
 {
     "list": [
         {
+            "id": 1,
+            "cant": 1,
+            "name": "FULAR",
+            "who": [
+                "Sofia"
+            ]
+        },
+        {
             "id": 2,
             "cant": 1,
             "name": "MOCHILA MATERNAL"
@@ -17,7 +25,7 @@
         },
         {
             "id": 5,
-            "cant": 6,
+            "cant": 7,
             "name": "BODIES MANGA LARGA"
         },
         {
