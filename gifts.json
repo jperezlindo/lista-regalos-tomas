@@ -1,0 +1,41 @@
+{
+    "list": [
+        {
+            "id": 2,
+            "cant": 1,
+            "name": "MOCHILA MATERNAL"
+        },
+        {
+            "id": 3,
+            "cant": 1,
+            "name": "LIMITA DE U\u00d1AS"
+        },
+        {
+            "id": 4,
+            "cant": 1,
+            "name": "EXTRACTOR NASAL"
+        },
+        {
+            "id": 5,
+            "cant": 6,
+            "name": "BODIES MANGA LARGA"
+        },
+        {
+            "id": 6,
+            "cant": 7,
+            "name": "BODY MANGA CORTA"
+        },
+        {
+            "id": 7,
+            "cant": 20,
+            "name": "Ranita (todos los talles)"
+        },
+        {
+            "id": 8,
+            "cant": 20,
+            "name": "ENTERITO (todos los talles)"
+        }
+    ],
+    "name": "TOMAS",
+    "date": "06/04/2025"
+}
