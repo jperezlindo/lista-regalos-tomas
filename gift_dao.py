@@ -1,9 +1,8 @@
-import json
+import json, os
 
 class GiftDAO():
-    __PATH_GIFTED = 'gifted.json'
-    __PATH_GIFTS = 'gifts.json'
-
+    __PATH_GIFTED = os.path.dirname(__file__) + '/gifted.json'
+    __PATH_GIFTS = os.path.dirname(__file__) + '/gifts.json'
 
     @classmethod
     def get_gifts(cls):
